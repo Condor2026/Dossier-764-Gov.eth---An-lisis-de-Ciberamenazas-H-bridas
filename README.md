@@ -1005,15 +1005,29 @@ La red 764 es descentralizada y opera con identidades digitales, pero los siguie
 
 | Alias / Nombre Real | Edad | Ubicación | Rol / Actividades | Estatus Legal |
 |---|---|---|---|---|
-| **Bradley Chance Cadenhead** ("Felix") | 15-17 años (fundador) | Stephenville, Texas, EE.UU. | Fundador de la red 764 en 2021 | Condenado a 80 años de prisión en EE.UU.  |
-| **Leonidas Varagiannis** ("War") | 21 años | Tesalónica, Grecia | Líder de la facción "764 Inferno" | Arrestado en 2025 por explotación infantil y extorsión  |
-| **Prasan Nepal** ("Trippy") | 20 años | EE.UU. | Líder destacado del grupo | Arrestado en 2025 por explotación infantil y extorsión  |
-| **Cameron Finnigan** | 18 años | Horsham, Reino Unido | Manipulador de menores, incitación al suicidio | Condenado a 6 años de prisión en Reino Unido  |
-| **Tony Christopher Long** ("Inactive") | 19 años | Porterville, California, EE.UU. | Miembro activo, acusado de explotación sexual de menor y crushing de animales | Imputado en octubre de 2025 por un gran jurado federal  |
-| **Hugo Figuerola** ("NeoHitler666") | 23 años | Valencia, España | Amenazó con tiroteo masivo a 27 colegios | Internado en unidad psiquiátrica por orden judicial [cita interna] |
-| **Miembro menor de edad** | 14 años | Alberta, Canadá | Participación activa en grupos extremistas, pornografía juvenil y explosivos | Acusado en febrero de 2024 por múltiples delitos  |
-| **Miembro menor de edad** | Menor de edad | Suecia | Atacó a una mujer de 55 años con cuchillo y subió el video a redes sociales | Detenido en enero de 2025  |
+| **Bradley Chance Cadenhead** ("Felix") | 15-17 años (fundador) | Stephenville, Texas, EE.UU. | Fundador de la red 764 en 2021 | Condenado a 80 años de prisión en EE.UU. |
+| **Leonidas Varagiannis** ("War") | 21 años | Tesalónica, Grecia | Líder de la facción "764 Inferno" | Arrestado en 2025 por explotación infantil y extorsión |
+| **Prasan Nepal** ("Trippy") | 20 años | EE.UU. | Líder destacado del grupo | Arrestado en 2025 por explotación infantil y extorsión |
+| **Erik Lee Madison** | 21 años | Halethorpe, Maryland, EE.UU. | Miembro de 764, explotó sexualmente al menos 10 menores | Condenado a 30 años de prisión el 15 de junio de 2026 |
+| **Cameron Finnigan** ("ACID") | 18 años | Horsham, Reino Unido | Manipulador de menores, incitación al suicidio | Condenado a 6 años de prisión en Reino Unido |
+| **Tony Christopher Long** ("Inactive") | 19 años | Porterville, California, EE.UU. | Acusado de explotación sexual de menor y crushing de animales | Imputado en octubre de 2025, enfrenta hasta 69 años |
+| **Richard Ehiemere** ("Retaliate#1337") | 21 años | Londres, Reino Unido | 29 imágenes indecentes de menores (10 Cat A) | Sentencia de 12 meses suspendida, orden de protección sexual 10 años |
+| **Hugo Figuerola** ("NeoHitler666") | 23 años | Valencia, España | Amenazó con tiroteo masivo a 27 colegios | Internado en unidad psiquiátrica por orden judicial |
+| **Baron Martin** ("Convict") | 20 años | Tucson, Arizona, EE.UU. | Se autoproclamaba "rey de la extorsión" y "dueño de 764 y CVLT" | Arrestado en diciembre 2024, enfrenta 30 años por CSAM y 10 años por cyberstalking |
+| **Aaron Corey** ("Baggeth") | 23 años | Albany, Nueva York, EE.UU. | Administraba chats de 764, buscaba CSAM de niños de 2 años | Arrestado en febrero 2026, enfrenta hasta 20 años |
+| **Jose Henry Ayala Casamiro** ("Henry") | 28 años | San Fernando Valley, California, EE.UU. | Dirigía "grooming pool" para niñas, obligaba a menores a tallar su nombre en el cuerpo | Arrestado en abril 2025, bajo custodia sin fianza |
+| **Dong Hwan Kim** ("Ryzen" / "Lobster") | 27 años | Downey, California, EE.UU. | Dirigía un servidor donde producía y compartía CSAM | Arrestado en agosto 2025, enfrenta 20 años |
+| **Austin Jan Sy Yatco** | 20-25 años | Plano, Texas / Filipinas | Líder de "Greggy's Cult" (precursor de 764), explotación de menores | Fugitivo, recompensa de $25,000 del FBI |
+| **Shahriar J.** ("White Tiger") | 21 años | Hamburgo, Alemania | 204 delitos contra más de 30 víctimas, indujo a suicidio a menor de 13 años | Juicio en curso (previsto hasta diciembre 2026) |
+| **Alexis Aldair Chavez** | N/A | San Antonio, Texas, EE.UU. | Administrador y líder de "8884" (subgrupo de 764) | Se declaró culpable en diciembre 2025, enfrenta hasta 60 años |
+| **Grecoamericano** (nombre sin publicar) | 21 años | Tesalónica, Grecia | Participación en organización criminal de explotación sexual de menores | En prisión preventiva en Grecia |
+| **Owen David Flowers** ("bo764" / "Holy" / "Nazi") | 19-20 años | Reino Unido | Miembro de "Scattered Spider", relacionado con el hackeo de MGM | Arrestado en julio 2025 |
 | **Matheo Enzo Torres Palacios** ("Gov.eth") | 22 años | Madrid, España | Ciberdelincuente neonazi, ataques a gobiernos de Argentina, Uruguay, España y EE.UU. | Detenido en Madrid el 25 de junio de 2026 |
+| **Miembro menor de edad** | 16 años | Reino Unido | Admitió haber alentado autolesiones y creado imágenes indecentes de menores, 50-100 víctimas | Orden de rehabilitación de 18 meses en abril 2026, restricción de internet |
+| **Miembro menor de edad** | 14 años | Alberta, Canadá | Participación activa en grupos extremistas, pornografía juvenil y explosivos | Acusado en febrero de 2024 por múltiples delitos |
+| **Miembro menor de edad** | 17 años | Creta, Grecia | Parte del caso de los dos 17ñeros en Grecia | Detenido en junio 2026 |
+| **Miembro menor de edad** | 17 años | Tesalónica, Grecia | Parte del caso de los dos 17ñeros en Grecia | Detenido en junio 2026 |
+| **Miembro menor de edad** | Menor de edad | Suecia | Atacó a una mujer de 55 años con cuchillo y subió el video a redes sociales | Detenido en enero de 2025 |
 
 ---
 
@@ -1021,48 +1035,49 @@ La red 764 es descentralizada y opera con identidades digitales, pero los siguie
 
 | Alias / Nombre Real | Ubicación | Actividades |
 |---|---|---|
-| **"Gnasher"** | EE.UU. | Mencionado en documentos judiciales del caso de Tony Long como miembro del núcleo de 764  |
-| **"Kanna"** | EE.UU. | Mencionado en documentos judiciales del caso de Tony Long  |
+| **"Gnasher"** | EE.UU. | Mencionado en documentos judiciales del caso de Tony Long como miembro del núcleo de 764 |
+| **"Kanna"** | EE.UU. | Mencionado en documentos judiciales del caso de Tony Long |
 
 ---
 
 ## Observaciones Importantes
 
-1. **La lista NO es exhaustiva.** El FBI tiene más de 350 investigaciones abiertas sobre la red 764 en EE.UU., y hay células en al menos 20 países .
+1. **La lista NO es exhaustiva.** El FBI tiene más de 350 investigaciones abiertas sobre la red 764 en EE.UU., y hay células en al menos 20 países.
 
-2. **Muchos miembros son menores de edad.** El grupo está dirigido principalmente por adolescentes de entre 13 y 18 años, lo que complica la respuesta judicial .
+2. **Muchos miembros son menores de edad.** El grupo está dirigido principalmente por adolescentes de entre 13 y 18 años, lo que complica la respuesta judicial.
 
 3. **Los alias cambian constantemente.** Los miembros usan múltiples identidades en Discord, Telegram y Roblox para evadir la detección.
 
-4. **El grupo NO está desmantelado.** Aunque líderes clave han sido arrestados, la red sigue activa y operando .
+4. **El grupo NO está desmantelado.** Aunque líderes clave han sido arrestados, la red sigue activa y operando.
 
 ---
 
 La red 764 no recluta con discursos políticos. Recluta con:
 
-Depredación emocional
+- Depredación emocional
+- Aislamiento familiar
+- Manipulación psicológica
+- Miedo y extorsión
 
-Aislamiento familiar
-
-Manipulación psicológica
-
-Miedo y extorsión
-
-Los menores que entran no son "monstruos". Son chicos rotos que fueron engañados, presionados y condicionados. Algunos saldrán, otros no, pero negarles la posibilidad de redención es exactamente lo que la secta quiere: que el mundo los vea como desechables.
+Los menores que entran no son "monstruos". Son chicos rotos que fueron engañados, presionados y condicionados. 
+Algunos saldrán, otros no, pero negarles la posibilidad de redención es exactamente lo que la secta quiere: que el mundo los vea como desechables.
 
 ---
 
-El mensaje de los investigadores es claro: "Es real. Detrás de esos usuarios hay personas". La lucha continúa.
+El mensaje de los investigadores es claro: **"Es real. Detrás de esos usuarios hay personas"**. La lucha continúa.
 
 ---
 
-
-FIN DEL INFORME COMPLETO
+**FIN DEL INFORME COMPLETO**
 
 ---
+
 29/06/2026
 Condor2026
 OSINT & Cyber Threat Analysis
 GitHub: Condor2026
 
-"La información es poder, pero la inteligencia es la capacidad de usarla para proteger a los vulnerables."
+---
+
+"La información es poder, pero la inteligencia es la capacidad de usarla para proteger a los vulnerables." 
+SALUDOS.
